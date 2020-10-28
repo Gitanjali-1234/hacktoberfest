@@ -2431,4 +2431,8 @@ Noida
 #### Name: [Gitanjali Banik](https://github.com/Gitanjali-1234)
 - Place: kolkata, India
 - Bio: 1st year MCA
-- Github: [Gitanjali Banik](https://github.com/Gitanjali-1234)
+- Github: [Gitanjali](https://github.com/Gitanjali-1234)
+#### Name: [Gitanjali](https://github.com/Gitanjali-1234)
+- Place: kolkata, India
+- Bio: 1st year MCA
+- Github: [Gitanjali](https://github.com/Gitanjali-1234)
